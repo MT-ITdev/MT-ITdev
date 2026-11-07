@@ -57,7 +57,7 @@
 - **[Yoga Club](https://mt-itdev.github.io/yoga-club-landing/)** — лендинг йога-центра: анимации при скролле (WOW.js), карусель преподавателей, модальное окно с расписанием занятий по дням недели и формой записи. HTML, SCSS, JavaScript, jQuery.
 - **[Trendy Cookies](https://mt-itdev.github.io/cookies/)** — лендинг и мини-магазин пекарни печенья на Angular: каталог из 12 товаров с фильтром «Все / Без сахара», форма оформления заказа. Angular, TypeScript.
 - **[Macaroons](https://mt-itdev.github.io/macaroons-landing/)** — лендинг кондитерской: анимированный hero-блок с вращающимся кругом, каталог вкусов с ценами, форма заказа с анимацией. HTML, LESS/CSS, JavaScript.
-- **[Super Sushi](https://mt-itdev.github.io/super-sushi-landing/)** — лендинг суши-бара: hero-блок с фирменным логотипом, меню из 8 роллов с кнопками «В корзину», блок о шеф-поваре. HTML, CSS.
+- **[Super Sushi](https://mt-itdev.github.io/super-sushi-landing/)** — лендинг суши-бара: hero-блок с фирменным логотипом, меню из 8 роллов с кнопками «В корзину», блок о шеф-поваре; адаптивная вёрстка для планшетов и телефонов. HTML, CSS.
 
 ---
 
